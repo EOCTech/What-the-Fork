@@ -21,7 +21,7 @@ Fictional character that I would like to punch in the face. (strikethrough)
 
 Add your profile below this line:
 ---
-Nick McKenzie Alt-H2 
+Nick McKenzie  
 ---
 
 ---
