@@ -50,8 +50,6 @@ Fictional character that I would like to punch in the face. ~~Jack Fund~~
 Nick McKenzie  
 ---
 
----
-
 Hometown: **Choctaw** 
 
 Age: *Zoomer* 
@@ -67,3 +65,26 @@ Top 3 Favorite foods
 * Aqua Teen Hunger Force
 
 Fictional character that I would like to punch in the face: ~~Eddie Vedder~~
+---
+
+## Ian Howe
+
+---
+
+**Midwest City**
+
+*16*
+
+1. KFC
+
+1. Ice Cream
+
+1. Cheeseburger
+
+- Pacific Rim 
+
+- Pacific Rim 2
+
+- Incredibles 2
+
+~~Fry~~
