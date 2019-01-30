@@ -21,3 +21,14 @@ Fictional character that I would like to punch in the face. (strikethrough)
 
 Add your profile below this line:
 ---
+## Ian Howe
+---
+**Midwest City**
+*16*
+1. KFC
+1. Ice Cream
+1. Cheeseburger
+- Pacific Rim 
+- Pacific Rim 2
+- Incredibles 2
+~~Fry~~
