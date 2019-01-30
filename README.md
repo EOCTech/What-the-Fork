@@ -7,7 +7,7 @@ Create a profile with the following info and formatting using markdown:
 
 First and Lastname (Heading2 size)
 
-Horizontal Rule
+---
 
 Hometown: Anytown (bold)
 
@@ -21,3 +21,20 @@ Fictional character that I would like to punch in the face. (strikethrough)
 
 Add your profile below this line:
 ---
+## Travis mackey
+
+Horizontal Rule
+
+Hometown: **Choctaw**
+
+Age: *18*
+
+1. pizza
+2. chicken
+3. food
+
++ Bird box
++ night school
++ something
+
+Fictional character that I would like to punch in the face. ~~Jack Fund~~
