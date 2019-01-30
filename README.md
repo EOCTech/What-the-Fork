@@ -21,3 +21,23 @@ Fictional character that I would like to punch in the face. (strikethrough)
 
 Add your profile below this line:
 ---
+Nick McKenzie  
+---
+
+---
+
+Hometown: **Choctaw** 
+
+Age: *Zoomer* 
+
+Top 3 Favorite foods  
+1. Lamb 
+2. Any seafood
+3. Poop
+
+3 Movies/TV Shows that you've watched in the last year. 
+* Futurama
+* South Park
+* Aqua Teen Hunger Force
+
+Fictional character that I would like to punch in the face: ~~Eddie Vedder~~
