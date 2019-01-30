@@ -9,6 +9,26 @@ Create a profile with the following info and formatting using markdown:
 
 Add your profile below this line:
 ---
+
+# Rebecca Leeper
+
+Hometown:Lewiston,Maine
+Age:16
+
+Favorite Foods
+
+1.Oreos
+2.Doritos
+3.Mac & Cheese
+
+3 Movies/Tv shows I've seen in the past year
+
+*Avengers:Infinity War
+*Stranger Things
+*Fairy Tail
+
+Fictional Charecter I'd like to punch in the face ~The Hulk~
+
 # Nicole Bass
 
 Hometown: Oklahoma City, OK
@@ -27,3 +47,4 @@ Top 3 Favorite foods:
 * Fast and the Furious
 
 Fictional person I would punch in the face: ~Spiderman~
+
