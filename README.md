@@ -9,7 +9,7 @@ Create a profile with the following info and formatting using markdown:
 Add your profile below this line:
 ---
 
-## Jack Funderburgh
+## Jack Funderburgh 
 
 ---
 
