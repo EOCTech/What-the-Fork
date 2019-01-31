@@ -7,7 +7,9 @@ Create a profile with the following info and formatting using markdown:
 Add your profile below this line:
 ---
 
+
 ## Miranda Barajas
+
 ---
 **Hometown: Harrah, OK**
 
@@ -107,3 +109,5 @@ Fictional character that I would like to punch in the face. ~~Jack Fund~~
 
 Fictional person I would punch in the face: ~Spiderman~
 
+
+## Jack Funderburgh 
