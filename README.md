@@ -10,43 +10,6 @@ Create a profile with the following info and formatting using markdown:
 Add your profile below this line:
 ---
 
-## Jack Funderburgh
-
----
-
-Hometown: **Choctaw**
-
-Age: *17*
-
-Top 3 Favorite foods
-1. Pizza
-2. Hamburgers
-3. Cheese Fries
-
-3 Movies/TV Shows that you've watched in the last year.
-
-+ The Office
-+ Criminal Minds
-+ Birdbox
-
-Fictional character that I would like to punch in the face. ~The Joker~
-## Travis mackey
-
-Horizontal Rule
-
-Hometown: **Choctaw**
-
-Age: *18*
-
-1. pizza
-2. chicken
-3. food
-
-+ Bird box
-+ night school
-+ something
-
-Fictional character that I would like to punch in the face. ~~Jack Fund~~
 Nick McKenzie  
 ---
 
